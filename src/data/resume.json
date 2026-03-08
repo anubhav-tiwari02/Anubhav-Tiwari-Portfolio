@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Anubhav Tiwari",
+    "title": "B.Tech Student & Developer",
+    "summary": "B.Tech Computer Science and Engineering student with a focus on AI, Machine Learning, and Software Development.",
+    "location": "Unnao, Uttar Pradesh, India",
+    "email": "anubhavtiwari190@gmail.com",
+    "phone": "+91 7007188586",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/anubhav-tiwari-02"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/anubhav-tiwari-02"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Raman Research and Innovation Pvt. Ltd.",
+      "role": "Graphic Designer Intern",
+      "dates": "Dec 2025 – Jan 2026",
+      "location": "Kanpur, India",
+      "bullets": [
+        "Designed social media posts, banners and promotional graphics to support marketing campaigns.",
+        "Edited and optimized graphics using tools like Canva, Illustrator etc."
+      ]
+    },
+    {
+      "company": "Ganga Singh Paramhans Inter College",
+      "role": "English Teacher",
+      "dates": "May 2023 – Aug 2023",
+      "location": "Makhi, India",
+      "bullets": [
+        "Taught English Grammar, vocabluary, reading and writing skills to students.",
+        "Helped students improve pronounciation, grammar accuaracy and writing skills."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Object Detection",
+      "stack": "Python, OpenCV, PyTorch",
+      "bullets": [
+        "Built an end to end detection pipeline involving image processing, bounding box handling."
+      ]
+    },
+    {
+      "title": "Diabetes Prediction System",
+      "stack": "Python, Pandas, Scikit Learn",
+      "bullets": [
+        "Developed a machine learning model to predict the diabetes likelihood using real world medical datasets."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        "Python",
+        "C",
+        "SQL",
+        "Pandas"
+      ]
+    },
+    {
+      "category": "Technologies/Frameworks",
+      "items": [
+        "GitHub",
+        "Git",
+        "Django",
+        "Scikit Learn",
+        "OpenCV",
+        "PyTorch"
+      ]
+    },
+    {
+      "category": "Developer Tools",
+      "items": [
+        "VS Code",
+        "Google Colab"
+      ]
+    },
+    {
+      "category": "Coursework / Skills",
+      "items": [
+        "Data Structures & Algorithms",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Database Management System (DBMS)",
+        "OOPS Concept",
+        "SEO/Social Media Marketing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pranveer Singh Institute of Technology",
+      "degree": "B.Tech - CGPA – 7.00",
+      "dates": "Oct 2023 – July 2027",
+      "location": "Kanpur, India",
+      "bullets": []
+    },
+    {
+      "institution": "Dr.Virendra Swarup Educcation Centre",
+      "degree": "Senior Secondary - Percentage - 71%",
+      "dates": "April 2023",
+      "location": "Unnao, India",
+      "bullets": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Oracle AI Foundations Associate"
+    },
+    {
+      "name": "Python(Basic)-Hackerrank"
+    },
+    {
+      "name": "Object Detection from Zero to Hero-Udemy"
+    },
+    {
+      "name": "Python & Django Framework and HTML5 Full-Stack-Course-Udemy"
+    }
+  ],
+  "extra": [
+    {
+      "title": "Extracurricular: YouTube (Anubhav Tiwari)",
+      "dates": "2023 – Present",
+      "bullets": [
+        "Showcase of daily life of college.",
+        "A small family of 2.74k people"
+      ]
+    }
+  ],
+  "achievements": []
+}
